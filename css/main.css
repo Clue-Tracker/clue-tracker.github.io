@@ -1,14 +1,15 @@
 body {
     user-select: none;
-    font-size: 7vw;
+    font-size: 6vw;
 }
 
 input {
-    font-size: 5vw;
-    width: 1.2em;
-    height: 1.2em;
+    font-size: 4vw;
+    width: 1.3em;
+    height: 1.3em;
     text-align: center;
     margin-bottom: 0.5em;
+    padding: 0;
 }
 
 td {
@@ -33,7 +34,7 @@ tr:nth-child(2)>td:first-child>h3 {
 }
 
 select {
-    font-size: 5vw;
+    font-size: 4vw;
     width: 1.5em;
     height: 1.5em;
     padding-left: 0.3em;
